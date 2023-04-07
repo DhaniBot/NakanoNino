@@ -36,23 +36,23 @@ global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '085731947500'
-global.povo = '-'
-global.pgopay = '085731947500'
-global.ppulsa = '085731947500'
-global.ppulsa2 = '085749543572'
-global.psaweria = 'https://saweria.co/oktakc'
+global.pdana = '089523573658'
+global.povo = '089523573658'
+global.pgopay = '089523573658'
+global.ppulsa = '089523573658'
+global.ppulsa2 = '089523573658'
+global.psaweria = '_'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285749543572'
-global.nomorown = '6285731947500'
-global.namebot = 'Nakano Nino'
-global.nameown = 'Okta'
+global.nomorbot = '6289523573658'
+global.nomorown = '6289523573658'
+global.namebot = 'Dhanz Botz'
+global.nameown = 'DhanzOffc'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285731947500', 'Okta', 'true']
+  ['6289523573658', 'DhanzOffc', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -103,16 +103,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'Nakano Ninoラ | By Okta' //Main Watermark
-global.wm2 = 'Okta'
-global.wm3 = 'Jangan Lupa Subscribe ChataOfc-'
+global.wm = 'Dhanz Botzラ | By Dhanz' //Main Watermark
+global.wm2 = 'Dhanz'
+global.wm3 = 'Jangan Lupa Subscribe Upin_Gtps-'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `NinoBotzラ | ʙʏ ${global.nameown}`
-global.author = 'Okta' 
-global.packname = 'ChataOfc'
+global.author = 'Dhanz' 
+global.packname = 'DhanzOfc'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'November 4 2023'
+global.ultahowner = 'April 8 2023'
 
 
 /*============== LOGO ==============*/
